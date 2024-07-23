@@ -16,7 +16,7 @@ class TG_CONFIG:
     bot_token = "5831767625:AAF2-yfllDT5QF91-aCaPlG_s_-k3gcsTQM"
 
     #DEVS or #OWNERS
-    sudo_users = [533890503, 6360672597]
+    sudo_users = [533890503]
 
     session = "conan76_web_dl_bot"
 
